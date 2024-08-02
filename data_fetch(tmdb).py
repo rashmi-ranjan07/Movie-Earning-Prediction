@@ -12,7 +12,7 @@ Original file is located at
 import requests
 import pandas as pd
 
-API_KEY = 'cd78f0710e1f3503d9a78b63341f8b14'
+API_KEY = 'Your_API_KEY'#the API key can be received by signing up in the TMDB (The Movie Database).
 
 def get_movies(url):
     response = requests.get(url)
