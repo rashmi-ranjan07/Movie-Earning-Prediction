@@ -1,3 +1,4 @@
+.....
 How to use the app?
 In the Movie name - input the required movie 
 ex- Deadpool 3
@@ -14,3 +15,4 @@ ex- 200000000
 
 In the runtime - input the specific time in mins
 ex-120
+.....
